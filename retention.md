@@ -42,3 +42,29 @@ This document outlines the customer segmentation framework, mapping specific beh
   Dormant Customers	       Win-back campaign
   Discount Sensitive	   Limited-time offers
   High Value Unhappy	   Dedicated customer success outreach
+
+
+  ---
+
+## Framework Key Performance Indicators (KPIs)
+
+### Customer Success Metrics
+* **Customer Retention Rate (CRR):** Percentage of active accounts maintained over a specific timeline.
+* **Repeat Purchase Rate (RPR):** Ratio of multi-purchase clients vs. single-purchase clients.
+* **Reactivation Rate:** Conversion efficiency of Dormant/At-Risk customers back into active states.
+* **Net Promoter Score (NPS) / Customer Satisfaction (CSAT):** Direct sentiment indicators per segment.
+
+### Revenue Metrics
+* **Churn Rate Percentage:** Normalized rate at which customers discontinue relationships.
+* **Customer Lifetime Value (LTV):** Dynamic expansion of net revenue yielded per individual cohort.
+* **Average Order Value (AOV):** Growth of purchase sizes driven by strategic cross-selling.
+* **Retention ROI:** Efficiency of marketing dollars spent relative to reclaimed revenue.
+
+---
+
+## Expected Framework Outcomes
+By standardizing operations on this RFM framework, the organization will achieve:
+1. **Early-Warning Churn Indicators:** Systematically intercepting account churn before it becomes permanent.
+2. **Optimized Resource Deployment:** Restricting expensive human intervention and promotional discounts to high-margin, high-yield segments.
+3. **Structured Account Longevity:** Creating predictable transition pipelines that reliably turn new shoppers into lifetime brand advocates.
+"""
